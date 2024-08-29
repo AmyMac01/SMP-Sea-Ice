@@ -1,26 +1,59 @@
 ID,IOP,ICE,DOY,Date,SITEID,LAT,LON,PITFILE,SMPF,MPD,SD,PD,OFF,NOTESMP,NOTESPIT
-1,a,m,101,11/04/2017,3,83.98343,-66.35089,170411_Site3_Pit1,1848,0.52,0.45,0.6,0.16,Probe went down fine. Tilted forward a few degrees. Moved ~10cm to right of previous attempt. At Josh King's Pit. Minimal sinking of braces (0.5mm) into new snow on top of wind slab.,Completed ~100 m away from the aircraft landing location in an area of thick snow. The floe was multi year ice. 
-2,a,m,101,11/04/2017,2,83.442117,-64.415482,170411_Site2_Pit1,1856,0.2,0.21,0.36,0.16,Overload @0.290m off ice lens layer. Starting right at Josh King's Pit. Minimal sinking of braces into new snow on top of wind slab (<5mm),
-3,a,m,102,12/04/2017,8,86.28477,-80.0692,170412_Site8_Pit1,1874,0.47,0.37,0.61,0.16,at pit wall,Pit located ~150 m away from the aircraft on a MYI pan. SMP measurements cross face of pit.
-4,a,m,103,13/04/2017,5,84.8578,-69.70426,170413_Site5_Pit1,1894,0.41,0.42,0.57,0.16,"Pit on mobile MYI, located in a melt pond (smooth base of pit).",
-5,a,m,103,13/04/2017,6,85.4446,-73.42067,170413_Site6_Pit1,1908,0.39,0.4,0.54,0.15,At snow pit edge,"Pit on mobile MYI, open area between two large ridges. Soft slab throughout area. Smooth ice surface at base."
-6,e,m,108,17/04/2016,8,79.813864,-86.807958,170416_Grid8_Pit1,956,0.23,0.2,0.357,0.16,NA,First pit at the southern MYI site. Pit located in a low between two large ice ridges spaced ~75 m apart. Layer of snow ice at the base of the pit that made finding the interface difficult.
-7,e,f,106,15/04/2016,7,79.972199,-86.790566,150416_Grid7_Pit1,844,0.17,0.19,0.353,0.16,NA,First pit at a rough ice site on OIB line 1. Light dusting of snow present and very light precip occuring while samping was completed. Out was located on the windward edge of a small drift. 
-8,e,f,106,15/04/2016,7,79.973094,-86.790689,150416_Grid7_Pit2,869,0.25,0.26,0.421,0.16,NA,Second pit of rough FYI site. Located at the apex of a small dirft.
-9,e,f,106,15/04/2016,7,79.97397,-86.790488,150416_Grid7_Pit3,875,0.18,0.19,0.35,0.16,NA,3rd pit of the rough FYI site. Pit located between drifts.
-10,e,f,105,14/04/2016,6,80.020688,-86.785785,140416_Grid6_Pit1,735,0.25,0.28,0.43,0.16,NA,First pit at a very smooth FYI site. Located on the windward side of a small drift.
-11,e,f,105,14/04/2016,6,80.019783,-86.785853,140416_Grid6_Pit2,752,0.16,0.16,0.32,0.16,NA,Second pit of the smooth FYI pan on line 1. Pit located in an open area away from any major drifts. Density cutter broke while completing this pit. Used a spare but it had a slightly different weight. This has been updated in the calculations already.
-12,e,f,105,14/04/2016,6,-9999,-9999,140416_Grid6_Pit3,776,0.19,0.19,0.356,0.16,NA,3rd pit of the smooth FYI site.  Between drifts.
-13,e,m,104,13/04/2016,5,79.983018,-86.294067,130416_Grid5_Pit1,633,0.405,0.4,0.56,0.16,NA,First pit of the 5th grid on MYI. Pit was located between hummocks at a low point. On the leward side of a large ice ridge
-14,e,m,104,13/04/2016,5,79.98338,-86.298533,130416_Grid5_Pit2,649,0.57,0.59,0.76,0.16,NA,Second pit of SIG 5. Located in a low between two ice features. Unlevel ice surface below.
-15,e,f,104,13/04/2016,5,79.983669,-86.303605,130416_Grid5_Pit3,666,0.11,0.11,0.27,0.16,NA,"3rd pit at the MYI site. Located in a transitional area near the edge of the pan. Fetch area for the MYI site, shallow all around. "
-16,e,f,102,11/04/2016,4,79.843182,-86.805246,110416_Grid4_Pit1,509,0.26,0.26,0.39,0.16,NA,First pit in the 4th test grid. Located in an area of rough sea ice near the southern edge of OIB Line 1. Pit was placed on the leaward edge of a drift after a rough ice feature.
-17,e,f,102,11/04/2016,4,79.842411,-86.805305,110416_Grid4_Pit2,526,0.35,0.29,0.43,0.16,NA,"Second pit of test site 4. Wind had calmed. Located on the apex of a drift, no obvious ice deformation but there was an unlevel ice surface below the pit."
-18,e,f,102,11/04/2016,4,79.844129,-86.805207,110416_Grid4_Pit3,541,0.18,0.22,0.38,0.16,NA,Third site of the 4th SIG. Located in a low between drifts.
-20,e,f,101,10/04/2016,3,80.079203,-86.779136,100416_Grid3_Pit2,439,0.25,0.24,0.42,0.16,NA,Pit in the middle of test grid 3
-21,e,f,101,10/04/2016,3,80.080036,-86.779089,100416_Grid3_Pit3,462,0.14,0.14,0.3,0.16,NA,Third pit of the third test grid. Shallow wind swept area between drifts.
-22,e,f,100,09/04/2016,2,79.99404,-86.44206,090416_Grid2_Pit1,335,0.27,0.2,0.37,0.16,NA,First pit of the second test grid. Completed within the proposed icebridge footprint to see how much of an issue it is to disturbe the snow prior to the flight. This pit was located at the western end of the grid aligned with flight line 3. Pit was located in a drift.
-23,e,f,100,09/04/2016,2,79.99476,-86.45155,090416_Grid2_Pit3,361,0.31,0.31,0.479,0.16,NA,"Third pit of the second test grid on OIB line 3. Pit was the deepest of the 3, located at the apex of a drift feature."
-24,e,f,99,08/04/2016,1,79.96301,-86.00111,080416_Grid1_Pit1,295,0.18,0.15,0.37,0.16,NA,First test grid located in proximity to line 3.  Near the western edge of the line but located just ouside the anticipated ATM swath on the south side of the line. Pit located in centre of the grid. Snow in the area was of high denisty and the pit seemed to be located at the high point of a drift. 6 SMP measurements were completed close to the snow pit.
-25,e,f,99,08/04/2016,1,79.96346,-86.00806,080416_Grid1_Pit2,309,0.225,0.22,0.36,0.16,NA,Second pit of the first test grid. Located in the middle of the site.
-26,e,f,99,08/04/2016,1,79.96249,-85.99505,080416_Grid1_Pit3,315,0.165,0.12,0.29,0.16,NA,Third pit of the first test grid.
+PS122/2_19-144,f1,,10,10/01/2020,FR,87.175694,112.794265,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M0829,,0.37,,,,
+PS122/2_19-92,f1,,10,10/01/2020,snow2-A2,87.168234,113.089407,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M0806,,0.13,,,,
+PS122/2_20-36,f1,,15,15/01/2020,FR,87.45634,103.723718,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.55,,,,
+PS122/2_20-80,f1,,17,17/01/2020,snow1-A5,87.506502,99.307938,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1015,,0.105,,,,
+PS122/2_20-83,f1,,17,17/01/2020,snow2-A8,87.514281,99.409629,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1011,,0.195,,,,
+PS122/2_21-14,f1,,20,20/01/2020,snow1-A1,87.439326,97.619717,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.26,,,,
+PS122/2_21-15,f1,,20,20/01/2020,snow2-A2,87.449599,97.423748,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.135,,,,
+PS122/2_21-52,f1,,22,22/01/2020,snow1-A5,87.481129,95.067037,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1109,,0.09,,,,
+PS122/2_21-53,f1,,22,22/01/2020,snow3-A6,87.481958,95.106513,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1106,,0.08,,,,
+PS122/2_21-96,f1,,24,24/01/2020,FR,87.421249,93.119838,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.26,,,,
+PS122/2_22-5,f1,,27,27/01/2020,snow2-A8,87.444174,95.566683,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1245,,0.17,,,,
+PS122/2_22-6,f1,,27,27/01/2020,snow3-A6,87.447999,95.765049,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1248,,0.12,,,,
+PS122/2_22-61,f1,,30,30/01/2020,RS3,87.459572,96.529555,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.13,,,,
+PS122/2_22-73,f1,,31,31/01/2020,snow1-A3,87.438508,96.47659,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1323,,0.065,,,,
+PS122/2_23-105,f1,,38,06/02/2020,RS3,87.614404,93.927434,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.45,,,,
+PS122/2_23-2,f1,,34,03/02/2020,ds-coring-FYI,87.421046,93.412738,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.085,,,,
+PS122/2_23-73,f1,,38,07/02/2020,FR,87.636323,93.749778,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.41,,,,
+PS122/2_25-81,f1,,52,21/02/2020,FR,88.499097,66.505657,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.87,,,,
+PS122/3_29-28,f1,,57,26/02/2020,snow1-A3,88.507153,41.149214,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.25,,,,
+PS122/3_29-29,f1,,57,26/02/2020,snow3-A6,88.494369,40.363484,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1716,,0.09,,,,
+PS122/3_29-43,f1,,58,27/02/2020,RS3,88.41405,36.848866,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1729,,0.1,,,,
+PS122/3_29-9,f1,,57,25/02/2020,snow2-A8,88.560159,45.682791,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S43M0805,,0.22,,,,
+PS122/3_30-17,f1,,63,02/03/2020,snow2-A2,88.181497,31.002182,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.28,,,,
+PS122/3_30-25,f1,,64,04/03/2020,snow1-A1,88.096915,30.487691,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.2,,,,
+PS122/3_32-59,f1,,80,20/03/2020,snow2-A8,86.336028,14.779778,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M1934,,0.14,,,,
+PS122/3_33-102,f1,,88,28/03/2020,Snow2-A8,85.592822,13.264851,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.18,,,,
+PS122/3_33-41,f1,,85,25/03/2020,snow2-A2,86.129983,14.303533,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2044,,0.15,,,,
+PS122/3_33-65,f1,,86,26/03/2020,snow2-A11,86.025486,13.141897,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.65,,,,
+PS122/3_34-60,f1,,94,03/04/2020,Snow2-A8,84.789438,13.491735,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2152,,0.17,,,,
+PS122/3_35-111,f1,,102,10/04/2020,radiation-stn,84.378998,14.624297,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2286,,0.15,,,,
+PS122/3_35-121,f1,,102,11/04/2020,Snow2-A2,84.332922,14.747528,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2291,,0.11,,,,
+PS122/3_35-23,f1,,97,06/04/2020,ds-coring-SYI,84.541147,14.185918,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2175,,0.16,,,,
+PS122/3_35-53,f1,,99,08/04/2020,RS4,84.483007,14.628226,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2238,,0.15,,,,
+PS122/3_36-102,f1,,108,16/04/2020,radiation-stn,84.344331,13.090261,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2401,,0.14,,,,
+PS122/3_36-103,f1,,108,16/04/2020,RS4,84.350349,13.090793,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2409,,0.22,,,,
+PS122/3_36-106,f1,,109,17/04/2020,Snow2-A2,84.42467,13.745942,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2454,,0.11,,,,
+PS122/3_36-107,f1,,109,17/04/2020,Snow2-A8,84.422546,13.73012,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2470,,0.105,,,,
+PS122/3_36-137,f1,,109,18/04/2020,Snow2-A2,84.453705,13.818533,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2487,,0.11,,,,
+PS122/3_36-138,f1,,110,19/04/2020,Snow2-A2,84.589105,14.721809,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2493,,0.105,,,,
+PS122/3_36-35,f1,,106,15/04/2020,snow2-A2,84.326425,14.021571,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2377,,0.095,,,,
+PS122/3_37-129,f1,,116,25/04/2020,L1,84.013007,15.628248,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.34,,,,
+PS122/3_37-132,f1,,118,26/04/2020,RS4,83.920737,15.508356,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0521,,0.14,,,,
+PS122/3_37-22,f1,,111,20/04/2020,Snow2-A2,84.557995,14.598807,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2510,,0.11,,,,
+PS122/3_37-39,f1,,113,22/04/2020,radiation-stn,84.140663,15.880081,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2538,,0.19,,,,
+PS122/3_37-41,f1,,114,22/04/2020,snow2-A2,84.119576,15.942104,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2556,,0.105,,,,
+PS122/3_37-57,f1,,114,23/04/2020,DR,84.072866,16.030914,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.79,,,,
+PS122/3_37-58,f1,,114,23/04/2020,snow2-A8,84.077009,16.056844,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S49M2576,,0.135,,,,
+PS122/3_37-68,f1,,115,24/04/2020,snow2-lead,84.057186,15.932178,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.05,,,,
+PS122/3_38-1,f1,,118,27/04/2020,snow2-A2,83.924284,15.628168,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0532,,0.095,,,,
+PS122/3_38-93,f1,,119,28/04/2020,radiation-stn,84.019968,16.285269,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0563,,0.13,,,,
+PS122/3_38-94,f1,,122,30/04/2020,Snow2-A8,83.9275,17.517308,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0595,,0.095,,,,
+PS122/3_38-95,f1,,122,01/05/2020,RS4,83.919984,17.68505,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0608,,0.155,,,,
+PS122/3_39-46,f1,,126,04/05/2020,snow1-A5*,83.907986,18.352127,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0745,,0.085,,,,
+PS122/3_39-48,f1,,128,06/05/2020,L3,83.921527,17.672559,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0796,,0.185,,,,
+PS122/3_39-87,f1,,128,07/05/2020,Snow2-A8,83.937546,16.935182,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0806,,0.2,,,,
+PS122/3_39-88,f1,,130,09/05/2020,snow2-A2,83.791626,14.137251,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0820,,0.105,,,,
+PS122/3_39-91,f1,,131,09/05/2020,radiation-stn,83.76896,13.956977,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',S31H0870,,0.085,,,,
+PS122/3_39-92,f1,,132,10/05/2020,snow1-A3,83.658609,13.462538,Y:\data\processed\snowpits\microct90\Event_profiles_5mmavg.csv',,,0.36,,,,
